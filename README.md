@@ -28,4 +28,4 @@ Update 3/6/2015:
 
 - Will require Zabaware's TTS program to be open, in order to perform this.
 
-- Can probably just make use CLIP.EXE to response text into the clipboard, the TTS reads back instantly: C:\> echo "TEST" | CLIP
+- Can probably just make use CLIP.EXE to put response text into the clipboard, the TTS reads back instantly: C:\> echo "TEST" | CLIP
