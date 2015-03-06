@@ -24,7 +24,7 @@ of mass following kepler's laws."
 
 Update 3/6/2015:  
 
-- Will need to account for query response for og.description: "Answers - The Most Trusted Place for Answering Life's Questions" - as this is essentially the site saying it couldn't find your question, this should copy something to the effect of "Unable to identify your query, caommander"
+- Will need to account for query response for og.description: "Answers - The Most Trusted Place for Answering Life's Questions" - as this is essentially the site saying it couldn't find your question, this should copy something to the effect of "Unable to identify your query, commander"
 
 - Will require Zabaware's TTS program to be open, in order to perform this.
 
